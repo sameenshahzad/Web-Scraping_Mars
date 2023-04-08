@@ -25,8 +25,6 @@ The data was analyzed to answer the following questions, and a data visualizatio
 
 The DataFrame was exported into CSV files. 
 
-## Data Source: 
-
-https://static.bc-edx.com/data/web/mars_news/index.html
-
-https://static.bc-edx.com/data/web/mars_facts/temperature.html
+## Data Sources: 
+- https://static.bc-edx.com/data/web/mars_news/index.html
+- https://static.bc-edx.com/data/web/mars_facts/temperature.html
